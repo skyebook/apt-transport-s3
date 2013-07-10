@@ -6,7 +6,7 @@ Requirements
 ------------
 
 #### Operating System
-- Will only work on Ubuntu out of the box.
+- Will only work on Ubuntu 12.04 out of the box.
 
 Contributing
 ------------
