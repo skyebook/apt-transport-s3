@@ -7,7 +7,7 @@ Requirements
 
 #### Operating System
 - Will only work on Ubuntu 12.04 out of the box.
-- 
+
 #### Cookbooks
 - `apt` - [Provided by Opscode](https://github.com/opscode-cookbooks/apt)
 
